@@ -9,4 +9,4 @@ I'm a software engineer mainly interested in backend/DB development (Django, Fla
 - ⌨️  Fun fact: I like to build weird custom keyboards
 
 👇 Feel free to reach out to me! 
-<p align="left"> <a href="https://www.linkedin.com/in/andrsdt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.github.com/andrsdt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/andrsdt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
